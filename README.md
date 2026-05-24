@@ -33,7 +33,8 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 
 - [Global Secure Access - Resource Hub](https://aka.ms/GlobalSecureAccessCommunity) - Knowledge hub for all things GSA. 
 - [Microsoft Entra ID Governance Training Hub](https://aka.ms/EntraIDGovernanceTraining) - Tools, documentation, and training materials to master ID Governance.
-
+- [Entra ID as Code Workshop](https://github.com/mjendza/workshop-entra-as-code-interactive) - Manage your Entra ID tenant using Infrastructure as Code via Terraform. This workshop supports both Workforce and Customer (External ID) instances.
+- [Identity Master Class](https://github.com/IdentityMan/MasterclassELDK26) - Lab & Resource Source for Identity Master Class - Experts Live Denmark 2026
 ## Presentations
 - [Entra Slide Decks](https://slides.entra.news) - Merill's collection of Entra related presentations (Right-click and open Incognito/In Private window)
 
@@ -120,7 +121,8 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [X509Details](https://github.com/darrenjrobinson/X509Details) - Decode an X509 Certificate and present it as a PowerShell Object. Certificate PowerShell Object details updated to include the X509 Certificate time to expiry (timeToExpiry). [![stars](https://badgen.net/github/stars/darrenjrobinson/X509Details)](https://badgen.net/github/stars/darrenjrobinson/X509Details)
 - [EntraOps](https://github.com/Cloud-Architekt/EntraOps) - Classify, identify and protect your privileges based on Enterprise Access Model [![stars](https://badgen.net/github/stars/Cloud-Architekt/EntraOps)](https://badgen.net/github/stars/Cloud-Architekt/EntraOps)
 - [Maester](https://github.com/maester365/maester) - Automated test framework for conditional access and Entra configuration [![stars](https://badgen.net/github/stars/maester365/maester)](https://badgen.net/github/stars/maester365/maester)
-
+- [M365IdentityPosture](https://github.com/Noble-Effeciency13/M365IdentityPosture) - M365IdentityPosture is an extensible PowerShell framework for security posture assessment and identity governance reporting across Microsoft 365, Azure AD/Entra ID, and hybrid environments.
+- [M365Documentation](https://github.com/ThomasKur/M365Documentation) - Automatic Microsoft 365 Documentation to simplify the life of admins and consultants.
 ### Web apps
 
 - [AADInternals - OSINT](https://aadinternals.com/osint) - OSINT web app that displays tenant information.
@@ -130,9 +132,11 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [Entra Scopes](https://entrascopes.com/) - The yellow pages of Microsoft first party apps. Includes filtering by scope, FOCI and more.
 - [Entra Sign-In Url Builder](https://signin.merill.net/) - Tool to generate OAuth 2.0 authorization URLs and admin consent urls. Handy for testing SSO.
 - [Graph Explorer aka.ms/ge](https://aka.ms/ge) - Graph Explorer is a web-based tool to help you understand and test Microsoft Graph APIs.
-- [Graph Permissions Explorer](https://https://graphpermissions.merill.net/) - Find out what Graph APIs are accessible for each Graph Permission Scope.
+- [Graph Permissions Explorer](https://graphpermissions.merill.net/) - Find out what Graph APIs are accessible for each Graph Permission Scope.
+- [Graph Permissions Explorer for Terraform](https://permissions.factorlabs.pl/) - Find, select and build ready Terraform Entra ID Service Principal Graph API Permissions.
 - [idPowerToys](https://idpowertoys.merill.net) - Microsoft Entra related power toys including a Conditional Access visualizer and Entra mind maps.
 - [SCIM Playground](https://scim.dev/) - SCIM Playground is a web-based tool to help you understand and test SCIM APIs.
+- [SCIMTool](https://github.com/kayasax/SCIMTool) - Provisioning visibility & SCIM 2.0 monitor for Microsoft Entra — deploy in minutes, understand events instantly.
 - [Tenant Lookup](https://gettenantpartitionweb.azurewebsites.net/) - Shows where tenant is located. Run by Microsoft 365 U.S. Government Programs team
 
 
@@ -143,16 +147,17 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 - [Automatically Exclude BreakGlass Group From Conditional Access](https://github.com/Cyberlorians/Articles/blob/main/AutoExcludeCAP.md) - Logic App to automatically exclude a BreakGlass group from Conditional Access policies.
 - [EntraID-Group-Cleanup](https://github.com/M365-Consultant/EntraID-Group-Cleanup) - Azure Runbook to automatically remove users from a group based on time of membership (e.g. 30 days).  [![stars](https://badgen.net/github/stars/M365-Consultant/EntraID-MFA-DynamicGroup)](https://badgen.net/github/stars/M365-Consultant/EntraID-MFA-DynamicGroup)
 - [EntraID-MFA-DynamicGroup](https://github.com/M365-Consultant/EntraID-MFA-DynamicGroup) - Azure Runbook to automatically add users to a group based on MFA status.  [![stars](https://badgen.net/github/stars/M365-Consultant/EntraID-MFA-DynamicGroup)](https://badgen.net/github/stars/M365-Consultant/EntraID-MFA-DynamicGroup)
-
+- [Dalonso-Security-Repo](https://github.com/davidalonsod/Dalonso-Security-Repo) - This space is dedicated to sharing knowledge, tools, and practical examples related to Microsoft Security technologies.
+  
 ## Certifications
 
 - [Microsoft Certified: Identity and Access Administrator Associate](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/)
-  - [SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-300/)
-  - [SC-300: Learning Path](https://learn.microsoft.com/en-us/training/paths/implement-identity-management-solution/)
-  - [Study guide for Exam SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/sc-300)
-  - [SC-300 exam prep videos - Microsoft Learn](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-sc-300-implement-identities-in-azure-ad-1-of-4)
-  - [Course SC-300T00-A: Identity and Access Administrator](https://learn.microsoft.com/en-us/training/courses/sc-300t00)
-  - [John Savill's SC-300 Cram - Playlist](https://www.youtube.com/watch?v=LGpgqRVG65g&list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y)
+- [SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-300/)
+- [SC-300: Learning Path](https://learn.microsoft.com/en-us/training/paths/implement-identity-management-solution/)
+- [Study guide for Exam SC-300: Microsoft Identity and Access Administrator](https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/sc-300)
+- [SC-300 exam prep videos - Microsoft Learn](https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-sc-300-implement-identities-in-azure-ad-1-of-4)
+- [Course SC-300T00-A: Identity and Access Administrator](https://learn.microsoft.com/en-us/training/courses/sc-300t00)
+- [John Savill's SC-300 Cram - Playlist](https://www.youtube.com/watch?v=LGpgqRVG65g&list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y)
 
 ## Community
 
@@ -315,6 +320,7 @@ These posts will make your head hurt, but in a good way.
 - [Michev.info - michev.info](https://www.michev.info/)
 - [Mike MDM - mikemdm.de](https://mikemdm.de)
 - [MIM And Beyond - suryendub.github.io](https://suryendub.github.io/)
+- [Mateusz Jendza - mjendza.net](https://mjendza.net)
 - [Mobile Jon - mobile-jon.com](https://mobile-jon.com/)
 - [Myron Helgering - myronhelgering.com](https://myronhelgering.com/)
 - [Nate Hutchinson - natehutchinson.co.uk](https://www.natehutchinson.co.uk)
